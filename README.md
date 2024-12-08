@@ -1,4 +1,5 @@
 # TV Series Nudity Checker & Rating Retriever
+**Current Browser Support**: This app currently works with Firefox only. In the future, support for additional browsers will be added.
 
 This Java app allows you to search for a TV series and check if its episodes contain nudity, as well as retrieve the series' rating charts. You can also enable debug mode for more detailed information.
 
@@ -27,24 +28,10 @@ Allows you to search for another series.
 ### Exit the App (`x` or `X`):
 Exits the application.
 
-## Example Usage:
-To check nudity for `[series]`:
-[series] nc
-[series] nc -debug  # with debug mode
-
-To get ratings for `[series]`:
-[series] a
-[series] a -debug  # with debug mode
-
-To check nudity for `[series]` and get ratings:
-[series] nc a
-
-To search for another series:
-[series] c
-
-To exit the app:
-x
-
 ## Notes:
 - **Error Handling**: If the series is not found, the app will prompt you to try again or exit.
 - **Debug Mode**: Adding `-debug` to any command provides additional logging and details during task execution.
+
+## Author Information:
+- **Author**: MYST
+- **Version**: 1.0
