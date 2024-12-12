@@ -26,6 +26,14 @@ It is recommended to use **Firefox** for faster performance.
      - `a -debug`: Retrieves ratings with debug info.
    - Search for another series (c): Allows you to search for another series.
    - Exit the app (x): Exits the application.
+  
+
+
+## IMPORTANT NOTE:
+If the app does not retrieve proper data for the series, it may output incomplete or incorrect results, such as saving profanity in the violence category, etc. This happens because the app relies on the available data for accurate categorization. If no data is retrieved, it means that **no data is available for that series**, and the app cannot process the content properly.
+
+**Make sure the series has data available to ensure accurate results
+
 
 ## Notes:
 - **Error Handling**: If the series is not found, the app will prompt you to try again or exit.
