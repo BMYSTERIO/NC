@@ -6,7 +6,7 @@ This app performs a **general content check** for TV series, including:
 - Frightening & Intense Scenes
 - Profanity
 
-It checks all episodes (up to 100) of a series and outputs the results in a folder structure. A main folder is created with the series name, and inside that folder, there are subfolders for each category (e.g., Nudity, Violence, etc.), containing the results for each episode.
+It checks all episodes of a series and outputs the results in a folder structure. A main folder is created with the series name, and inside that folder, there are subfolders for each category (e.g., Nudity, Violence, etc.), containing the results for each episode, average speed of 100 ep in 20 min.
 
 It is recommended to use **Firefox** for faster performance.
 
